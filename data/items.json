@@ -1,0 +1,306 @@
+[
+  {
+    "id": "startup-ddl-y-combinator-batch-application-2026-07-01",
+    "title": "Y Combinator Batch Application",
+    "deadline": "2026-07-01T23:59:59",
+    "dateRange": "Jul 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.ycombinator.com/apply",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "Y Combinator Apply",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-techstars-accelerator-application-2026-07-19",
+    "title": "Techstars Accelerator Application",
+    "deadline": "2026-07-19T23:59:59",
+    "dateRange": "Jul 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.techstars.com/accelerators",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "Techstars Accelerators",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-masschallenge-application-2026-08-06",
+    "title": "MassChallenge Application",
+    "deadline": "2026-08-06T23:59:59",
+    "dateRange": "Aug 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://masschallenge.org",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "MassChallenge",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-hult-prize-campus-round-2026-08-24",
+    "title": "Hult Prize Campus Round",
+    "deadline": "2026-08-24T23:59:59",
+    "dateRange": "Aug 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.hultprize.org",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "Hult Prize",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-mit-100k-pitch-deadline-2026-09-11",
+    "title": "MIT $100K Pitch Deadline",
+    "deadline": "2026-09-11T23:59:59",
+    "dateRange": "Sep 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.mit100k.org",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "MIT $100K",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-rice-business-plan-competition-2026-09-29",
+    "title": "Rice Business Plan Competition",
+    "deadline": "2026-09-29T23:59:59",
+    "dateRange": "Sep 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://rbpc.rice.edu",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "Rice Business Plan Competition",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-berkeley-skydeck-application-2026-10-17",
+    "title": "Berkeley SkyDeck Application",
+    "deadline": "2026-10-17T23:59:59",
+    "dateRange": "Oct 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://skydeck.berkeley.edu",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "Berkeley SkyDeck",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-stanford-bases-challenge-2026-11-04",
+    "title": "Stanford BASES Challenge",
+    "deadline": "2026-11-04T23:59:59",
+    "dateRange": "Nov 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://bases.stanford.edu",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "Stanford BASES",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-startup-weekend-demo-day-2026-11-22",
+    "title": "Startup Weekend Demo Day",
+    "deadline": "2026-11-22T23:59:59",
+    "dateRange": "Nov 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.ycombinator.com/apply",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "ycombinator.com",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-entrepreneur-first-application-2026-12-10",
+    "title": "Entrepreneur First Application",
+    "deadline": "2026-12-10T23:59:59",
+    "dateRange": "Dec 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.joinef.com",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "Entrepreneur First",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-indiebio-application-2026-12-28",
+    "title": "IndieBio Application",
+    "deadline": "2026-12-28T23:59:59",
+    "dateRange": "Dec 2026",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://indiebio.co",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "IndieBio",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-climatetech-startup-grant-2027-01-15",
+    "title": "ClimateTech Startup Grant",
+    "deadline": "2027-01-15T23:59:59",
+    "dateRange": "Jan 2027",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.ycombinator.com/apply",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "ycombinator.com",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-ai-startup-pitch-cup-2027-02-02",
+    "title": "AI Startup Pitch Cup",
+    "deadline": "2027-02-02T23:59:59",
+    "dateRange": "Feb 2027",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.ycombinator.com/apply",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "ycombinator.com",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-university-innovation-fund-window-2027-02-20",
+    "title": "University Innovation Fund Window",
+    "deadline": "2027-02-20T23:59:59",
+    "dateRange": "Feb 2027",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.ycombinator.com/apply",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "ycombinator.com",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-social-impact-venture-challenge-2027-03-10",
+    "title": "Social Impact Venture Challenge",
+    "deadline": "2027-03-10T23:59:59",
+    "dateRange": "Mar 2027",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.ycombinator.com/apply",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "ycombinator.com",
+    "type": "program"
+  },
+  {
+    "id": "startup-ddl-hardware-startup-demo-sprint-2027-03-28",
+    "title": "Hardware Startup Demo Sprint",
+    "deadline": "2027-03-28T23:59:59",
+    "dateRange": "Mar 2027",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "startup",
+      "accelerator",
+      "grant"
+    ],
+    "url": "https://www.ycombinator.com/apply",
+    "status": "upcoming",
+    "description": "已登记官方或权威聚合来源入口；具体截止时间需以链接页面为准，后续由专题 crawler 抽取并校验。",
+    "stage": "Source board",
+    "source": "ycombinator.com",
+    "type": "program"
+  }
+]
