@@ -1,0 +1,262 @@
+{
+  "topicId": "startup-ddl",
+  "generatedAt": "2026-05-16T07:55:32.889Z",
+  "adapterCount": 4,
+  "reachableCount": 3,
+  "parsedItemCount": 10,
+  "previousParsedItemCount": null,
+  "parserHealthy": true,
+  "parserDropOk": true,
+  "adapters": [
+    {
+      "sourceId": "yc",
+      "source": "Y Combinator",
+      "url": "https://www.ycombinator.com/apply",
+      "items": [],
+      "reachable": true,
+      "httpStatus": 200,
+      "finalUrl": "https://www.ycombinator.com/apply",
+      "title": "Apply to YC | Y Combinator",
+      "contentLength": 61542,
+      "fetchedAt": "2026-05-16T07:55:25.474Z",
+      "note": "Source reachable. Curated data/items.json preserved until item parser is implemented.",
+      "error": null
+    },
+    {
+      "sourceId": "techstars",
+      "source": "Techstars Accelerators",
+      "url": "https://www.techstars.com/accelerators",
+      "items": [
+        {
+          "id": "techstars-abn-amro-techstars-future-of-finance-accelerator",
+          "title": "ABN AMRO + Techstars Future of Finance Accelerator",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Amsterdam, Netherlands",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/abn-amro-techstars-future-of-finance-accelerator",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-baltimore-ai-health",
+          "title": "Techstars AI Health Baltimore",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Baltimore, United States",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/baltimore-ai-health",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-alabama-power",
+          "title": "Techstars Alabama EnergyTech Accelerator",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Birmingham, Alabama",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/alabama-power",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-anywhere",
+          "title": "Techstars Anywhere Accelerator",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Anywhere",
+          "isOnline": true,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/anywhere",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-boulder-accelerator",
+          "title": "Techstars Boulder",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Boulder, United States",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/boulder-accelerator",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-ohio-state-university-accelerator",
+          "title": "Techstars Columbus Powered by The Ohio State University",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Columbus, United States",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/ohio-state-university-accelerator",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-future-of-food",
+          "title": "Techstars Future of Food Powered by Ecolab",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Minneapolis, Minnesota",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/future-of-food",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-permanente-medicine",
+          "title": "Techstars Healthcare Accelerator powered by Permanente Medicine Mid-Atlantic States",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Washington D.C.",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/permanente-medicine",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-nyc",
+          "title": "Techstars New York City Accelerator",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "New York, New York",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/nyc",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        },
+        {
+          "id": "techstars-space",
+          "title": "Techstars Space Accelerator",
+          "deadline": "2026-06-10T23:59:59Z",
+          "dateRange": "Apply by Jun 10",
+          "location": "Los Angeles, California",
+          "isOnline": false,
+          "tags": [
+            "startup",
+            "accelerator",
+            "Techstars"
+          ],
+          "url": "https://www.techstars.com/accelerators/space",
+          "status": "upcoming",
+          "description": "Parsed from official Techstars accelerators listing. Deadline is read from the Apply by card and embedded earliestCurrentDeadline.",
+          "stage": "Application deadline",
+          "source": "Techstars Accelerators",
+          "type": "program"
+        }
+      ],
+      "reachable": true,
+      "httpStatus": 200,
+      "finalUrl": "https://www.techstars.com/accelerators",
+      "title": "Find a Startup Accelerator Program Near You | Techstars",
+      "contentLength": 193655,
+      "fetchedAt": "2026-05-16T07:55:26.252Z",
+      "note": "Parsed 10 items from Techstars; rejected 0 entries.",
+      "error": null,
+      "parsedItemCount": 10,
+      "invalidItemCount": 0,
+      "parserHealthy": true
+    },
+    {
+      "sourceId": "startupgrind",
+      "source": "Startup Grind / Accelerate",
+      "url": "https://www.startupgrind.com",
+      "items": [],
+      "reachable": true,
+      "httpStatus": 200,
+      "finalUrl": "https://www.startupgrind.com/",
+      "title": "Startup Grind | Global Community for Entrepreneurs",
+      "contentLength": 802242,
+      "fetchedAt": "2026-05-16T07:55:27.190Z",
+      "note": "Source reachable. Curated data/items.json preserved until item parser is implemented.",
+      "error": null
+    },
+    {
+      "sourceId": "grantwatch",
+      "source": "GrantWatch",
+      "url": "https://www.grantwatch.com",
+      "items": [],
+      "reachable": false,
+      "httpStatus": 403,
+      "finalUrl": "https://www.grantwatch.com/",
+      "title": "Attention Required! | Cloudflare",
+      "contentLength": 4550,
+      "fetchedAt": "2026-05-16T07:55:30.540Z",
+      "note": "Source returned HTTP 403. Curated data/items.json preserved.",
+      "error": null
+    }
+  ]
+}
