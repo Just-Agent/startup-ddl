@@ -1,6 +1,6 @@
 {
   "topicId": "startup-ddl",
-  "generatedAt": "2026-05-16T07:55:12.365Z",
+  "generatedAt": "2026-05-16T10:00:33.343Z",
   "sourcePolicy": "Chinese-first display. Dates are preserved from the hub dataset; crawlers must verify against official pages before strict mode.",
   "sourceFamilies": [
     {
@@ -34,78 +34,8 @@
   ],
   "itemSources": [
     {
-      "name": "Y Combinator Apply",
-      "url": "https://www.ycombinator.com/apply",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
       "name": "Techstars Accelerators",
-      "url": "https://www.techstars.com/accelerators",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "MassChallenge",
-      "url": "https://masschallenge.org",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "Hult Prize",
-      "url": "https://www.hultprize.org",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "MIT $100K",
-      "url": "https://www.mit100k.org",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "Rice Business Plan Competition",
-      "url": "https://rbpc.rice.edu",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "Berkeley SkyDeck",
-      "url": "https://skydeck.berkeley.edu",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "Stanford BASES",
-      "url": "https://bases.stanford.edu",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "ycombinator.com",
-      "url": "https://www.ycombinator.com/apply",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "Entrepreneur First",
-      "url": "https://www.joinef.com",
-      "type": "item-source",
-      "confidence": "official-or-official-entry",
-      "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
-    },
-    {
-      "name": "IndieBio",
-      "url": "https://indiebio.co",
+      "url": "https://www.techstars.com/accelerators/abn-amro-techstars-future-of-finance-accelerator",
       "type": "item-source",
       "confidence": "official-or-official-entry",
       "note": "来自当前 Just-DDL 数据项；具体日期仍以链接页面为准。"
