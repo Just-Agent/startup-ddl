@@ -1,10 +1,10 @@
 {
   "topicId": "startup-ddl",
-  "generatedAt": "2026-05-16T07:55:32.889Z",
+  "generatedAt": "2026-05-18T06:35:23.987Z",
   "adapterCount": 4,
-  "reachableCount": 3,
+  "reachableCount": 4,
   "parsedItemCount": 10,
-  "previousParsedItemCount": null,
+  "previousParsedItemCount": 10,
   "parserHealthy": true,
   "parserDropOk": true,
   "adapters": [
@@ -18,7 +18,7 @@
       "finalUrl": "https://www.ycombinator.com/apply",
       "title": "Apply to YC | Y Combinator",
       "contentLength": 61542,
-      "fetchedAt": "2026-05-16T07:55:25.474Z",
+      "fetchedAt": "2026-05-18T06:35:21.978Z",
       "note": "Source reachable. Curated data/items.json preserved until item parser is implemented.",
       "error": null
     },
@@ -223,7 +223,7 @@
       "finalUrl": "https://www.techstars.com/accelerators",
       "title": "Find a Startup Accelerator Program Near You | Techstars",
       "contentLength": 193655,
-      "fetchedAt": "2026-05-16T07:55:26.252Z",
+      "fetchedAt": "2026-05-18T06:35:22.025Z",
       "note": "Parsed 10 items from Techstars; rejected 0 entries.",
       "error": null,
       "parsedItemCount": 10,
@@ -239,8 +239,8 @@
       "httpStatus": 200,
       "finalUrl": "https://www.startupgrind.com/",
       "title": "Startup Grind | Global Community for Entrepreneurs",
-      "contentLength": 802242,
-      "fetchedAt": "2026-05-16T07:55:27.190Z",
+      "contentLength": 810120,
+      "fetchedAt": "2026-05-18T06:35:22.026Z",
       "note": "Source reachable. Curated data/items.json preserved until item parser is implemented.",
       "error": null
     },
@@ -249,13 +249,13 @@
       "source": "GrantWatch",
       "url": "https://www.grantwatch.com",
       "items": [],
-      "reachable": false,
-      "httpStatus": 403,
+      "reachable": true,
+      "httpStatus": 200,
       "finalUrl": "https://www.grantwatch.com/",
-      "title": "Attention Required! | Cloudflare",
-      "contentLength": 4550,
-      "fetchedAt": "2026-05-16T07:55:30.540Z",
-      "note": "Source returned HTTP 403. Curated data/items.json preserved.",
+      "title": "Grants for Nonprofits, Businesses and Individuals | GrantWatch",
+      "contentLength": 466322,
+      "fetchedAt": "2026-05-18T06:35:22.027Z",
+      "note": "Source reachable. Curated data/items.json preserved until item parser is implemented.",
       "error": null
     }
   ]
